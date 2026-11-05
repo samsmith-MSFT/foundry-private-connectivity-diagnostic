@@ -39,7 +39,7 @@ The exit code is `1` if any deployment-level check fails, otherwise `0`.
 
 ## Reading the HTML report
 
-The report follows your OS light/dark preference. The screenshots below are in dark mode, from a private deployment run outside the private network. Identifiers are redacted with black boxes.
+The report follows your OS light/dark preference. The screenshots below are in dark mode, from a private deployment run outside the private network.
 
 ### 1. Start at the top: verdict and counters
 
